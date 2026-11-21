@@ -7,6 +7,10 @@ I build tools that help developers pick up interrupted work, reuse fixes, and ke
 
 [**MSXMD**](https://msxmd.com/) · [**Public repositories**](https://github.com/shaheer-00?tab=repositories)
 
+<!-- repo-counts:start -->
+**16 public** · **12 private**
+<!-- repo-counts:end -->
+
 ## Open-source projects
 
 <table>
