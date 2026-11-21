@@ -1,14 +1,21 @@
-![MSXMD profile banner with Muhammed Shaheer’s name and an abstract green circuit motif](assets/banner.png)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/banner.png">
+  <img src="assets/orbit.gif" alt="Muhammed Shaheer · MSXMD · AI developer tools and WordPress">
+</picture>
 
-I build tools for AI-assisted development and WordPress. My projects focus on making everyday work easier to resume, debug, and maintain.
+I build tools that help developers pick up interrupted work, reuse fixes, and keep their workflows running.
 
-[MSXMD website](https://msxmd.com/) · [All public repositories](https://github.com/shaheer-00?tab=repositories)
+[**MSXMD**](https://msxmd.com/) · [**Public repositories**](https://github.com/shaheer-00?tab=repositories)
 
-## Selected projects
+## Open-source projects
 
-| Project | What it does |
-| :--- | :--- |
-| [**claude-adhd**](https://github.com/shaheer-00/claude-adhd) | Brings unfinished threads from earlier Claude Code sessions back into view so you can pick up where you left off. |
-| [**switchXprovider**](https://github.com/shaheer-00/switchXprovider) | Routes Claude Code requests through a local multi-provider proxy with failover and usage tracking. |
-| [**fixdex**](https://github.com/shaheer-00/fixdex) | Stores recurring errors and their fixes in local SQLite so Claude Code can recall a fix when the same error comes back. |
-| [**MSXMD Toolkit**](https://github.com/shaheer-00/msxmd-toolkit) | A modular WordPress plugin for admin styling, login branding, and site maintenance. |
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/shaheer-00/claude-adhd"><img src="assets/claude-adhd.png" alt="claude-adhd — pick up unfinished Claude Code threads"></a></td>
+    <td width="50%"><a href="https://github.com/shaheer-00/switchXprovider"><img src="assets/switchxprovider.png" alt="switchXprovider — local Claude Code proxy with provider failover"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/shaheer-00/fixdex"><img src="assets/fixdex.png" alt="fixdex — local memory for recurring errors and their fixes"></a></td>
+    <td width="50%"><a href="https://github.com/shaheer-00/msxmd-toolkit"><img src="assets/msxmd-toolkit.png" alt="MSXMD Toolkit — WordPress admin styling, login branding and maintenance"></a></td>
+  </tr>
+</table>
